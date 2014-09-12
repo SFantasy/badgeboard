@@ -1,3 +1,8 @@
+badge board
+---
+
+Fork from [https://github.com/repo-utils/badgeboard](https://github.com/repo-utils/badgeboard).
+
 ## Pulling from here:
 
 ```sh
@@ -43,7 +48,7 @@ You'll probably need to resolve merge conflicts after you do `git pull`.
 
 ## Deployment Methods
 
-There are two ways to deploy the badge board. 
+There are two ways to deploy the badge board.
 The first is to deploy it at `https://<your-org>.github.io`.
 To do so, simply push your badgeboard to `https://github.com/<your-org>/<your-org>.github.io`.
 
