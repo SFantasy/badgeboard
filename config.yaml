@@ -29,13 +29,14 @@ maintainers:
    github:  SFantasy   # github account, required: we link to it
    npm:     fantasyshao   # npm account, required to determine lead maintainer
    twitter: forFantasy # twitter account, optional
-   # gittip:  dougwilson   # gittub badge, optional
+   gittip:  SFantasy   # gittub badge, optional
    email:   fantasyshao@icloud.com
 
  - name:    Fantasy Shao
    github:  SFantasy
    npm:     fantasyshao
    twitter: forFantasy
+   gittip:  SFantasy
    email:   forever.fantasy27@gmail.com
 
 # this determines what info will be fetched with `make db`;
