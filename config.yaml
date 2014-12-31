@@ -21,6 +21,8 @@ projects:
     - cdnsync
     - ntrans:
         repo: teenworks/node-translator
+    - cntrain:
+        repo: SFantasy/node-train
 
 
 # list of maintainers, this won't be sorted
