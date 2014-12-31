@@ -23,7 +23,8 @@ projects:
         repo: teenworks/node-translator
     - cntrain:
         repo: SFantasy/node-train
-
+    - chepiao-sdk:
+        repo: SFantasy/node-chepiao-sdk
 
 # list of maintainers, this won't be sorted
 maintainers:
