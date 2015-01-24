@@ -3,7 +3,7 @@ name: SFantasy
 
 # badge style, can be "flat", "flat-square" or ""
 # see http://shields.io/ for details
-badge_style: flat-square
+badge_style: flat
 
 # meta headers in html
 title:       Fantasy's BadgeBoard
@@ -20,7 +20,7 @@ projects:
         repo: SFantasy/generator
     - cdnsync
     - ntrans:
-        repo: teenworks/node-translator
+        repo: SFantasy/node-translator
     - cntrain:
         repo: SFantasy/node-train
     - chepiao-sdk:
