@@ -3,7 +3,7 @@ name: SFantasy
 
 # badge style, can be "flat", "flat-square" or ""
 # see http://shields.io/ for details
-badge_style: flat
+badge_style: flat-square
 
 # meta headers in html
 title:       Fantasy's BadgeBoard
@@ -13,28 +13,23 @@ keywords:
 # list of projects, this will be sorted by name;
 # every package is either string or object
 projects:
-    - node-weather
-    - is-valid:
-        repo: SFantasy/node-validator
-    - npm-generator:
-        repo: SFantasy/generator
-    - cdnsync
-    - ntrans:
-        repo: SFantasy/node-translator
-    - cntrain:
-        repo: SFantasy/node-train
-    - chepiao-sdk:
-        repo: SFantasy/node-chepiao-sdk
+  - node-weather:
+      repo: SFantasy/node-weather
+  - is-valid:
+      repo: SFantasy/node-validator
+  - npm-generator:
+      repo: SFantasy/generator
+  - cdnsync:
+      repo: SFantasy/cdnsync
+  - ntrans:
+      repo: SFantasy/node-translator
+  - cntrain:
+      repo: SFantasy/node-train
+  - chepiao-sdk:
+      repo: SFantasy/node-chepiao-sdk
 
 # list of maintainers, this won't be sorted
 maintainers:
- - name:    Fantasy Shao
-   github:  SFantasy   # github account, required: we link to it
-   npm:     fantasyshao   # npm account, required to determine lead maintainer
-   twitter: forFantasy # twitter account, optional
-   gittip:  SFantasy   # gittub badge, optional
-   email:   fantasyshao@icloud.com
-
  - name:    Fantasy Shao
    github:  SFantasy
    npm:     fantasyshao
